@@ -1,3 +1,3 @@
 # ReKindle
-A short platformer made in Gamemaker Studio 2
+A short platformer made with GML
 Link: https://aaryaman1409.itch.io/rekindle
